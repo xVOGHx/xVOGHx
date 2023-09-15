@@ -3,6 +3,10 @@
 - 🔭 Atualmente trabalhando com front-end
 - 🌱 Estudando javascript
 
+  <div>
+    <a href= "https://github.com/xVOGHx">
+  </div>
+
 ## Linguagens 👽
 
   <div style="display: inline_block"><br>
@@ -15,8 +19,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/guilherme-fortes-a396b5262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
   <a href="https://instagram.com/vogh_sg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
   <a href="https://api.whatsapp.com/send?phone?=5596984212517&text=Estou%20entrando%20em%20contato,%20pois%20gostei%20muito%20do%20seu%20perfil.%20Podemos%20conversa?)" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
