@@ -3,7 +3,9 @@
 - 🔭 Atualmente trabalhando com front-end
 - 🌱 Estudando javascript
 
-  <div>
+<img src="https://media.tenor.com/BKGO6KpIKaQAAAAi/banana-monke.gif" width="400px" align="right">
+
+<div>
     <a href= "https://github.com/xVOGHx">
 <picture>
   <source
